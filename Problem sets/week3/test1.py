@@ -1,0 +1,6 @@
+date = input("Date: ")
+x1,x2= date.split(",")
+month,day=x1.split(" ")
+year = int(x2.strip())
+#print(x1)
+print(year)

@@ -1,0 +1,10 @@
+AlexderBell
+Xcode
+Vscode
+Subline
+Clion
+Vim
+Dev-CPP
+Bicintic
+castcore
+DachivalPriciton
